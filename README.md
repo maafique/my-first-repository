@@ -1,10 +1,10 @@
 # my-first-repository
 Contain miscellaneous items and learning materials:
 
-- Notebooks
+- Tutorial Notebooks
 
 - Project files
 
 - Data
 
-- Etc.
+- Guidlines, Etc.
