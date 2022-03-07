@@ -7,4 +7,4 @@ Contain miscellaneous items and learning materials:
 
 - Data
 
-- Guidlines, Etc.
+- Guidelines, Etc.
